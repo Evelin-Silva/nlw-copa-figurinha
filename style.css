@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body *{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+body{
+    background-image: linear-gradient(150deg, #0F2B05 4.34%, #000000 87.6%);
+    height: 100vh;
+    text-align: center;    
+}
+
+header{
+    padding: 75px 0;
+}
+
+.cards{
+    width: 354px;
+    height: 508px;
+    display: inline-block;
+    background-image: url(./assets/explorer.svg);
+}
+
+.cards img{
+    border: 4px solid #F7DD43;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 100px;
+    margin-bottom: 110px;
+}
+
+.info{
+    text-align: left;
+    width: 264px;
+    margin-left: 74px;
+}
+
+h1{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+p{
+    font-size: 14px;
+    font-weight: 400;
+}
