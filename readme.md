@@ -4,7 +4,7 @@
 
 > Figurinha animada da copa.
 
-[🔗 Link para acessar a página](link)
+[🔗 Link para acessar a página](https://index-evelin.github.io/nlw-copa-figurinha/)
 
 #### 🎃 Prévia:
 
