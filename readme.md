@@ -8,7 +8,7 @@
 
 #### 🎃 Prévia:
 
-![Figurinha](./assets/cardNLWCopa.mp4)
+![Figurinha](./assets/cardNLWCopa.png)
 
 ### 🎯 Objetivo:
 
